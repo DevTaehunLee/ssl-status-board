@@ -34,6 +34,7 @@ const knownLogos = new Set([
   'roboime',
   'robojackets',
   'roboteam-twente',
+  'robounited',
   'seegoals',
   'spbunited',
   'src',
